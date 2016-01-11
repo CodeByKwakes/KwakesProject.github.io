@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs",
+				"bs3-navbar	bs3-navbar"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"Cont",
+				"Contest"
+			],
+			[
+				"Contr",
+				"ContestsController"
+			],
+			[
+				"r",
+				"required"
+			],
+			[
+				"so",
+				"song"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"p",
+				"passport"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"con",
+				"contests"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"pro",
+				"producer"
+			],
+			[
+				"pr",
+				"producer"
+			],
+			[
+				"get",
+				"getProducers"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"rec",
+				"recipes"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"ba",
+				"balance"
+			],
+			[
+				"with",
+				"withdraw"
+			],
+			[
+				"de",
+				"describe"
+			],
+			[
+				"b",
+				"Bob"
+			],
+			[
+				"ac",
+				"accounts"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"dec",
+				"describe"
+			],
+			[
+				"g",
+				"grunt"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"u",
+				"User"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"dele",
+				"deletedCharacter"
+			],
+			[
+				"delete",
+				"deleteCharacter"
+			],
+			[
+				"sel",
+				"selectCharacter"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"s",
+				"Sargent"
+			],
+			[
+				"event",
+				"eventObj"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"page",
+				"pageCount"
+			],
+			[
+				"pag",
+				"pageUrl"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ev",
+				"events"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"keywo",
+				"keywordPartial"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"new",
+				"newEvent"
+			],
+			[
+				"venue_",
+				"venue_search_url"
+			],
+			[
+				"city",
+				"city_name"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"ve",
+				"venueURL"
+			],
+			[
+				"H",
+				"hackathon"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"rq",
+				"require"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"show",
+				"showPage"
+			],
+			[
+				"user",
+				"users-link"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"su",
+				"submitForm"
+			],
+			[
+				"ag",
+				"agent"
+			],
+			[
+				"code",
+				"codename"
+			],
+			[
+				"ex",
+				"expressJWT"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"rou",
+				"router"
+			],
+			[
+				"er",
+				"errorMessage"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"si",
+				"signupStrategy"
+			],
+			[
+				"ne",
+				"newUser"
+			],
+			[
+				"is",
+				"isMatch"
+			],
+			[
+				"us",
+				"userSchema"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"art",
+				"articlesEdit"
+			],
+			[
+				"ar",
+				"articlesNew"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"can",
+				"candy"
+			],
+			[
+				"ca",
+				"candies"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"by",
+				"bcrypt"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"o",
+				"on"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"va",
+				"validates"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"sin",
+				"sinatra"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"number",
+				"number_of_pets"
+			],
+			[
+				"list",
+				"list_passengers"
+			],
+			[
+				"pas",
+				"passenger"
+			],
+			[
+				"eac",
+				"each_with_index"
+			],
+			[
+				"fli",
+				"flight"
+			],
+			[
+				"flih",
+				"flight"
+			],
+			[
+				"lis",
+				"list_flights"
+			],
+			[
+				"cho",
+				"chomp"
+			],
+			[
+				"fl",
+				"flights"
+			],
+			[
+				"vi",
+				"vibe_ratingz"
+			],
+			[
+				"nm",
+				"number_of_tables"
+			],
+			[
+				"super",
+				"superman"
+			],
+			[
+				"set",
+				"set_age"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"di",
+				"display_total"
+			],
+			[
+				"ace",
+				"ace_low"
+			],
+			[
+				"dis",
+				"display_cards"
+			],
+			[
+				"pla",
+				"player_cards"
+			],
+			[
+				"dea",
+				"dealer_cards"
+			],
+			[
+				"pl",
+				"player_cards"
+			],
+			[
+				"deal",
+				"deal_cards"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"v",
+				"VALUES"
+			],
+			[
+				"in",
+				"interchange"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"an",
+				"answer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: tab",
+		"selected_items":
+		[
+			[
+				"Snippet: tab",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"Snippet: thu",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"Snippet: image",
+				"Snippet: bs3-image"
+			],
+			[
+				"Snippet: ju",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-local"
+			],
+			[
+				"Snippet: hea",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"Snippet: th",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"Snippet: imag",
+				"Snippet: bs3-image"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"github pl",
+				"GitHub: Private Gist from Selection"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/addContest.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/profile-bio.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/profile-playlist.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/profile-contest.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/app.js",
+		"/Users/Kwakes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Kwakes/Library/Application Support/Sublime Text 3/Packages/User/eCSStractor.sublime-settings",
+		"/Users/Kwakes/Library/Application Support/Sublime Text 3/Packages/eCSStractor/eCSStractor.sublime-settings",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/songs.css",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/users.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/views/contests.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/assets/css/style.css",
+		"/Users/Kwakes/Downloads/wdi-project-4-master/frontend/index.html",
+		"/Users/Kwakes/development/kwakesprojectsite/_config.yml",
+		"/Users/Kwakes/development/kwakesprojectsite/README.md",
+		"/Users/Kwakes/development/kwakesprojectsite/_layouts/default.html",
+		"/Users/Kwakes/development/kwakesprojectsite/_includes/header.html",
+		"/Users/Kwakes/development/kwakesprojectsite/_includes/services.html",
+		"/Users/Kwakes/development/kwakesprojectsite/_includes/css/agency.css",
+		"/Users/Kwakes/Downloads/KwakesProject.github.io-master/index.html",
+		"/Users/Kwakes/development/kwakesprojectsite/feed.xml",
+		"/Users/Kwakes/development/wdi-project-4/frontend/index.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/showContest.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/register.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/bower.json",
+		"/Users/Kwakes/development/wdi-project-4/frontend/.bowerrc",
+		"/Users/Kwakes/development/map_app/server.js",
+		"/Users/Kwakes/development/map_app/public/index.html",
+		"/Users/Kwakes/development/map_app/package.json",
+		"/Users/Kwakes/development/map_app/app/model.js",
+		"/Users/Kwakes/development/map_app/public/js/app.js",
+		"/Users/Kwakes/development/dink/index.html",
+		"/Users/Kwakes/development/dink/css/style.css",
+		"/Users/Kwakes/development/dink/js/app.js",
+		"/Users/Kwakes/development/dink/css/reset.css",
+		"/Users/Kwakes/development/dink/.bowerrc",
+		"/Users/Kwakes/development/wdi-project-4/frontend/songs.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/contests.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/userEdit.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/users.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/addSong.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/addContest.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/css/style.css",
+		"/Users/Kwakes/development/wdi-project-4/frontend/home.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/profile.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/controllers/usersController.js",
+		"/Users/Kwakes/development/WDI_LDN_16_LESSON_NOTES/completed_examples/mi6-authentication/app/front-end/css/style.css",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/usersController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/models/user.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/controllers/contestsController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/services/currentUser.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/login.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/userProfile.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/models/contest.js",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/authenticationsController.js",
+		"/Users/Kwakes/development/project reject/nav3.html",
+		"/Users/Kwakes/development/project reject/nav2.html",
+		"/Users/Kwakes/development/project reject/nav1.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/controllers/songsController.js",
+		"/Users/Kwakes/development/wdi-project-4/api/models/user.js",
+		"/Users/Kwakes/development/wdi-project-4/api/config/passport.js",
+		"/Users/Kwakes/development/wdi-project-4/api/config/routes.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/controllers/clientsController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/models/song.js",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/songsController.js",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/contestsController.js",
+		"/Users/Kwakes/development/wdi-project-4/api/models/contest.js",
+		"/Users/Kwakes/development/wdi-project-4/api/app.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/producers.html",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/models/client.js",
+		"/Users/Kwakes/development/WDI_LDN_16_LESSON_NOTES/completed_examples/yearbook-authentication/api/controllers/authenticationsController.js",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/producersController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/models/producer.js",
+		"/Users/Kwakes/development/wdi-project-4/api/models/client.js",
+		"/Users/Kwakes/development/wdi-project-4/api/controllers/clientsController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/controllers/producersController.js",
+		"/Users/Kwakes/development/WDI_LDN_16_LESSON_NOTES/w10d03_angular-resource-factories-lesson/solution-code/app/front-end/js/resources/character.js",
+		"/Users/Kwakes/development/WDI_LDN_16_LESSON_NOTES/w10d03_angular-resource-factories-lesson/solution-code/app/front-end/js/controllers.js",
+		"/Users/Kwakes/development/WDI_LDN_16_LESSON_NOTES/completed_examples/mi6-authentication/app/front-end/index.html",
+		"/Users/Kwakes/authentication-lab/starter-code/front-end/js/controllers/usersController.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/services/tokenService.js",
+		"/Users/Kwakes/development/wdi-project-4/frontend/js/services/authInterceptor.js",
+		"/Users/Kwakes/authentication-lab/starter-code/front-end/js/app.js",
+		"/Users/Kwakes/development/wdi-project-4/api/models/producer.js",
+		"/Users/Kwakes/development/wdi-project-4/api/config/config.js",
+		"/Users/Kwakes/authentication-lab/starter-code/front-end/js/models/user.js",
+		"/Users/Kwakes/Downloads/infamous-criminals/starter-code/frontend/js/criminalsController.js",
+		"/Users/Kwakes/authentication-lab/starter-code/api/app.js",
+		"/Users/Kwakes/authentication-lab/starter-code/api/config/config.js",
+		"/Users/Kwakes/development/practise code/crawler/output.json",
+		"/Users/Kwakes/development/WDI_LDN_16_HOMEWORK/KwakesProject/w10d03/starter-code/front-end/js/resources/user.js",
+		"/Users/Kwakes/development/practise code/wdi-project-3/api/lib/eventful.js",
+		"/Users/Kwakes/development/practise code/hackjammertest/lib/eventful.js",
+		"/Users/Kwakes/development/wdi-project-3/front-end/bower_components/bootstrap-social/bootstrap-social.css",
+		"/Users/Kwakes/.Trash/main.html",
+		"/Users/Kwakes/development/wdi-project-3/front-end/public/js/oauth.js",
+		"/Users/Kwakes/development/wdi-project-3/api/controllers/authController.js",
+		"/Users/Kwakes/development/wdi-project-3/api/models/user.js",
+		"/Users/Kwakes/.zshrc",
+		"/Users/Kwakes/development/wdi-project-3/api/app.js",
+		"/Users/Kwakes/development/wdi-project-3/front-end/public/js/landing.js",
+		"/Users/Kwakes/development/wdi-project-3/api/config/routes.js",
+		"/Users/Kwakes/development/wdi-project-3/api/config/shim.js",
+		"/Users/Kwakes/development/wdi-project-3/api/config/credentials.js",
+		"/Users/Kwakes/development/practise code/oldeventbrite.js",
+		"/Users/Kwakes/development/wdi-project-3/api/lib/eventful.js",
+		"/Users/Kwakes/development/practise code/eventbritef.js",
+		"/Users/Kwakes/development/practise code/eventbritee.js",
+		"/Users/Kwakes/development/practise code/eventbrited.js",
+		"/Users/Kwakes/development/wdi-project-3/api/config/passport.js",
+		"/Users/Kwakes/development/wdi-project-3/front-end/views/main.html",
+		"/Users/Kwakes/development/wdi-project-3/api/models/event.js",
+		"/Users/Kwakes/development/practise code/meetupcrawler.js",
+		"/Users/Kwakes/development/wdi-project-3/api/lib/eventbrite.js",
+		"/Users/Kwakes/development/practise code/eventbritec.js",
+		"/Users/Kwakes/development/practise code/eventbriteb.js",
+		"/Users/Kwakes/development/wdi-project-3/front-end/public/js/map.js",
+		"/Users/Kwakes/development/practise code/eventbrite.js",
+		"/Users/Kwakes/development/practise code/hackjammertest/lib/eventbrite.js",
+		"/Users/Kwakes/development/wdi-project-3/front-end/views/landing.html",
+		"/Users/Kwakes/development/wdi-project-3/api/lib/meetup.js",
+		"/Users/Kwakes/development/practise code/hackjammertest/lib/meetup.js",
+		"/Users/Kwakes/development/practise code/hackjammertest/app.js",
+		"/Users/Kwakes/development/newcrawler/controllers/eventController.js",
+		"/Users/Kwakes/development/crawlercopy/controllers/eventsController.js",
+		"/Users/Kwakes/development/crawler copy/output.json",
+		"/Users/Kwakes/development/wdi-project-3/app.js",
+		"/Users/Kwakes/.zhrc"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"<open files>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".page",
+			"playlist",
+			">\n",
+			"home",
+			".navbar",
+			"  <",
+			"about",
+			"#about",
+			"intro-heading",
+			"ng-click",
+			".footer",
+			".footer-top",
+			"btn-group",
+			"portfolio-item",
+			"inver",
+			"location",
+			"last_name",
+			"first",
+			"password",
+			"song",
+			"submision_date",
+			"prizes.grand_prize",
+			"bpm",
+			"genre",
+			"image",
+			"song",
+			"Song",
+			"song",
+			"Song",
+			"<span class=\"form-control-feedback\"></span>",
+			"ion-at ",
+			"genre",
+			"image",
+			"title",
+			"users",
+			"loginForm",
+			"ng-model=\"email\"",
+			"signup()",
+			"signupForm",
+			"country",
+			"client",
+			"Client",
+			"prizes.runner_up",
+			"producer",
+			"producers",
+			"producer",
+			"check",
+			"producer",
+			"check",
+			"producer",
+			"check",
+			"Producer",
+			"check",
+			"producer",
+			"Producer",
+			"check",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"producer",
+			"producerSchema",
+			"producer",
+			"email",
+			"image",
+			"surname",
+			"For",
+			"fore",
+			"Username",
+			"producer",
+			"Song",
+			"producer",
+			"Producer",
+			"criminal",
+			"Criminal",
+			"producer",
+			"Producer",
+			"producer",
+			"Producer",
+			"user",
+			"User",
+			"user",
+			"Agent",
+			"user",
+			"profile",
+			"User",
+			"user",
+			"criminal",
+			"Criminal",
+			"criminal",
+			"user",
+			"name",
+			"code",
+			"real",
+			"this",
+			"github",
+			"bio",
+			"end",
+			"start",
+			"President",
+			"president",
+			"user",
+			"users",
+			"User",
+			"this",
+			"ttt",
+			"cells",
+			"index",
+			"Get Average",
+			"Info",
+			"Exhibt",
+			"marker",
+			"landing",
+			"index",
+			"i",
+			"iteration",
+			"[i]",
+			"i",
+			"base_url",
+			"events[i]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user\n    setUp();\n})\n\nvar playerOneTotal = 0\nvar PlayerOneRolls = []\nvar playerTwoTotal = 0\nvar PlayerTwoRolls = []\nvar turn           = 1\n\nfunction setUp(){\n  if(turn ==== 1){\n    document.getElementById('diceRoll').addEventListener(\"click\", PlayerOneRollDice);\n  }else{\n    document.getElementById('diceRoll').addEventListener(\"click\", PlayerTwoRollDice);\n  }\n}\n\nfunction PlayerOneRollDice(){\n    var whosTurn = document.getElementById(\"whosTurn\")\n    var die1 = document.getElementById(\"die1\");\n    var die2 = document.getElementById(\"die2\");\n    var status = document.getElementById(\"status\");\n    var rollsHtml = document.getElementById(\"rolls\")\n    var d1 = Math.floor(Math.random() * 6) + 1;\n    var d2 = Math.floor(Math.random() * 6) + 1;\n    // console.log(d1 + \" & \" + d2);\n    // console.log(\"Dice 1: \" + d1 + \" & Dice 2: \" + d2);\n    var diceTotal = d1 + d2;\n    whosTurn.innerHTML = \"Player 1 Roll\"\n    die1.innerHTML = d1;\n    die2.innerHTML = d2;\n    rolls.push([d1, d2])\n    playerTotal += diceTotal\n    console.log(rolls)\n      $(\"#rolls\").append(\"<li>\"+d1 + \", \"+ d2+\"</li>\")\n    status.innerHTML = \"Player One rolled \"+playerTotal+\".\";\n    if(d1 == d2){\n        status.innerHTML += \" DOUBLES! \"+playerTotal+\".\";\n    }\n    turn = 2\n}\n\nfunction PlayerTwoRollDice(){\n  var whosTurn = document.getElementById(\"whosTurn\")\n  var die1 = document.getElementById(\"die1\");\n  var die2 = document.getElementById(\"die2\");\n  var status = document.getElementById(\"status\");\n  var rollsHtml = document.getElementById(\"rolls\")\n  var d1 = Math.floor(Math.random() * 6) + 1;\n  var d2 = Math.floor(Math.random() * 6) + 1;\n  // console.log(d1 + \" & \" + d2);\n  // console.log(\"Dice 1: \" + d1 + \" & Dice 2: \" + d2);\n  var diceTotal = d1 + d2;\n  whosTurn.innerHTML = \"Player 1 Roll\"\n    die1.innerHTML = d1;\n    die2.innerHTML = d2;\n    rolls.push([d1, d2])\n    playerTotal += diceTotal\n    console.log(rolls)\n      $(\"#rolls\").append(\"<li>\"+d1 + \", \"+ d2+\"</li>\")\n    status.innerHTML = \"Player One rolled \"+playerTotal+\".\";\n    if(d1 == d2){\n        status.innerHTML += \" DOUBLES! \"+playerTotal+\".\";\n    }\n    turn = 1\n}\n\n\n\n\n",
+			"$(function(){\n    setUp();\n})\n\nvar playerOneTotal = 0\nvar PlayerOneRolls = []\nvar playerTwoTotal = 0\nvar PlayerTwoRolls = []\nvar turn           = 1\n\nfunction setUp(){\n  if(turn ==== 1){\n    document.getElementById('diceRoll').addEventListener(\"click\", PlayerOneRollDice);\n  }else{\n    document.getElementById('diceRoll').addEventListener(\"click\", PlayerTwoRollDice);\n  }\n}\n\nfunction PlayerOneRollDice(){\n    var whosTurn = document.getElementById(\"whosTurn\")\n    var die1 = document.getElementById(\"die1\");\n    var die2 = document.getElementById(\"die2\");\n    var status = document.getElementById(\"status\");\n    var rollsHtml = document.getElementById(\"rolls\")\n    var d1 = Math.floor(Math.random() * 6) + 1;\n    var d2 = Math.floor(Math.random() * 6) + 1;\n    // console.log(d1 + \" & \" + d2);\n    // console.log(\"Dice 1: \" + d1 + \" & Dice 2: \" + d2);\n    var diceTotal = d1 + d2;\n    whosTurn.innerHTML = \"Player 1 Roll\"\n    die1.innerHTML = d1;\n    die2.innerHTML = d2;\n    rolls.push([d1, d2])\n    playerTotal += diceTotal\n    console.log(rolls)\n      $(\"#rolls\").append(\"<li>\"+d1 + \", \"+ d2+\"</li>\")\n    status.innerHTML = \"Player One rolled \"+playerTotal+\".\";\n    if(d1 == d2){\n        status.innerHTML += \" DOUBLES! \"+playerTotal+\".\";\n    }\n    turn = 2\n}\n\nfunction PlayerTwoRollDice(){\n  var whosTurn = document.getElementById(\"whosTurn\")\n  var die1 = document.getElementById(\"die1\");\n  var die2 = document.getElementById(\"die2\");\n  var status = document.getElementById(\"status\");\n  var rollsHtml = document.getElementById(\"rolls\")\n  var d1 = Math.floor(Math.random() * 6) + 1;\n  var d2 = Math.floor(Math.random() * 6) + 1;\n  // console.log(d1 + \" & \" + d2);\n  // console.log(\"Dice 1: \" + d1 + \" & Dice 2: \" + d2);\n  var diceTotal = d1 + d2;\n  whosTurn.innerHTML = \"Player 1 Roll\"\n    die1.innerHTML = d1;\n    die2.innerHTML = d2;\n    rolls.push([d1, d2])\n    playerTotal += diceTotal\n    console.log(rolls)\n      $(\"#rolls\").append(\"<li>\"+d1 + \", \"+ d2+\"</li>\")\n    status.innerHTML = \"Player One rolled \"+playerTotal+\".\";\n    if(d1 == d2){\n        status.innerHTML += \" DOUBLES! \"+playerTotal+\".\";\n    }\n    turn = 1\n}\n\n\n\n\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"abili",
+				"app/models/ability.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
