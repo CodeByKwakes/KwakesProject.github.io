@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://kwakesproject.com" # the base hostname & protocol for your site
+twitter_username: KwakesProject
+github_username:  KwakesProject
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -28,12 +28,8 @@ color:
 social:
   - title: twitter
     url: http://twitter.com/KwakesProject
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/kwakuprempeh
   - title: github
     url: http://github.com/KwakesProject
 
