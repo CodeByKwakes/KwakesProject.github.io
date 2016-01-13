@@ -266,7 +266,6 @@ header {
     text-align: center;
     color: #{{ site.color.primary }};
     background-attachment: scroll;
-    /*background-image: url(img/header-bg.jpg);*/
     background-image: url(/img/city-background.jpg);
     background-position: center center;
     background-repeat: none;
@@ -660,7 +659,6 @@ aside.clients {
 
 section#about {
     background-color: #222;
-    /*background-image: url(/img/profile-pic-blur.png);*/
     background-position: center;
     background-repeat: no-repeat;
     color: #{{ site.color.primary }};
@@ -668,7 +666,7 @@ section#about {
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #333;
 }
 
 section#contact .form-group {
