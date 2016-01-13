@@ -1,0 +1,15 @@
+---
+title: Prattle Messenger
+subtitle: WDI-16 24 hour Hack-a-thon
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: prattle_chat.jpeg
+thumbnail: prattle_chat.jpeg
+alt: image-alt
+project-date: April 2014
+weblink: prattlechat.herokuapp.com
+github: prattle
+description: Prattle' Messenger is a cross-platform instant messaging application that is the product of a WDI-16 24 hour Hack-a-thon. The app is responsive to allow users to access it on desktop or on the go using a smartphone.<br><strong>Technologies:</strong> Ruby on rails, Devise, Postgresql & socketChat.
+
+---

@@ -1,0 +1,16 @@
+---
+title: HackJammer
+subtitle: GA WDI 16 London - Project 3
+layout: default
+modal-id: 4
+date: 2014-07-16
+img: hackjammer.png
+thumbnail: hackjammer.png
+alt: image-alt
+project-date: April 2014
+weblink: N/A
+github: hackjammer
+description: A group project with 3 other developers. <br>HackJammer is a very compact app utilising APIs from various event hosting sites to crawl information and then using the Google Maps and Geocoder API to render all hackathons and meetups directly onto a full screen map. <br><strong>Technologies:<strong> Node JS, Express, Bootstrap, Google Maps API, Geocoder API, Eventbrite API
+
+
+---

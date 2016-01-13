@@ -8,9 +8,8 @@ img: DirtyDice.png
 thumbnail: DirtyDice.png
 alt: image-alt
 project-date: April 2014
-weblink: https://dirtydice.herokuapp.com
-category: Web Development
-description: Let's play a game of dice!!!
-The Concept: A simple two player game with a twist of street craps and bowling.
+weblink: dirtydice.herokuapp.com
+github: dirty_dice
+description: Let's play a game of dice!!! <br> My first GA assignment was to build a game in vanilla JavaScript. A simple two player game with a twist of street craps and bowling. <br><br><strong>Technologies:</strong> HTML, CSS & jQuery
 
 ---
