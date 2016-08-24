@@ -1,0 +1,16 @@
+---
+title: Which? CCA
+subtitle: Dam Digital
+layout: default
+modal-id: 5
+date: 2016-05-15
+img: RequestCallBackPage.png
+thumbnail: RequestCallBackPage.png
+alt: image-alt
+project-date: May 2016
+weblink: N/A
+github: N/A
+description: A complete rebuild of  both current Live Chat  and Request Call Back Landing Pages for Which? Credit Card Authorisation (CCA) Programme. The aim & objective of the programme is to help rescue Which? members failed subscription payments due to non-compliant cards and switch as many of them as possible to direct debit as a much more secure means of ensuring on-going payment. <br><strong>Technologies:<strong> HTML, CSS, JavaScript, ExactTarget
+
+
+---
