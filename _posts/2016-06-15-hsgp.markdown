@@ -1,0 +1,16 @@
+---
+title: Harley Street General Practice
+subtitle: Dam Digital
+layout: default
+modal-id: 6
+date: 2016-06-15
+img: HSGP.png
+thumbnail: HSGP.png
+alt: image-alt
+project-date: June 2016
+weblink: www.thehsgp.co.uk
+github: N/A
+description: A modern redesign of their old website, designed to work on all devices (desktop, tablet and mobile). The new website incorporates HSGP existing branding with a more modern look and feel. The website also includes CMS so that HSGP can update their Practice News and Kids Corner pages on a regular basis. <br><strong>Technologies:</strong> HTML, CSS, JavaScript, ASP.NET MVC, Umbraco CMS
+
+
+---
